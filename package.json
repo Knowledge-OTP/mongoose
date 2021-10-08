@@ -1,5 +1,5 @@
 {
-  "name": "mongoose",
+  "name": "@Knowledge-OTP/mongoose",
   "description": "Mongoose MongoDB ODM",
   "version": "5.9.19",
   "author": "Guillermo Rauch <guillermo@learnboost.com>",
